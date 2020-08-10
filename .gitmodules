@@ -1,0 +1,12 @@
+[submodule "Photos"]
+	path = Photos
+	url = https://github.com/eshamehmood/IAD-Project.git
+[submodule "Hooli-Dev"]
+	path = Hooli-Dev
+	url = https://github.com/Mubashir-ali-baig/Dev-chat.git
+[submodule "Covid-Tracker"]
+	path = Covid-Tracker
+	url = https://github.com/Mubashir-ali-baig/PWA-covid-tracker.git
+[submodule "Social-Dev"]
+	path = Social-Dev
+	url = https://github.com/ashar-sarwar/Social_app.git
